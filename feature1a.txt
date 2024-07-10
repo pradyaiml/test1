@@ -1,1 +1,3 @@
-This is 1st file of feature1 file
+hello
+less
+new
